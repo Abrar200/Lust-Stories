@@ -36,7 +36,7 @@ export default function SuperAdminLogin() {
         <div className="bg-zinc-900/80 backdrop-blur-lg rounded-2xl p-8 shadow-2xl border border-pink-500/30">
           <div className="flex flex-col items-center mb-8">
             <img 
-              src="https://d64gsuwffb70l.cloudfront.net/685afce20bfda24fc0f1d36c_1762073252193_5174dc4d.png" 
+              src="/logo.png" 
               alt="Lust Story" 
               className="w-80 mb-6"
               style={{ filter: 'drop-shadow(0 0 30px rgba(255, 20, 147, 0.8))' }}
